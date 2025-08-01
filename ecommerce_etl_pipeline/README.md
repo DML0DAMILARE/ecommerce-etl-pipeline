@@ -11,7 +11,7 @@ This project demonstrates an end-to-end ETL pipeline for e-commerce sales data.
 
 ## Structure
 - `data/` - CSV input files
-- `ingestion/` - Python scripts to load and clean data
+- `Python scripts to load and clean data
 - `dags/` - Airflow DAGs
 - `sql/` - SQL scripts
 - `dbt_project/` - dbt transformation models
